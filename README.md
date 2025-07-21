@@ -37,3 +37,6 @@ app.py<br>
    < 0: Negative<br>
    == 0: Neutral<br>
    The result is shown in the text box with an explanation.<br>
+
+💡 Author<br>
+Developed by: [Sakshi Sharad More] 📧 Email: [moresakshi385@gmail.com] 🌐 GitHub: github.com/sakshi-more11
